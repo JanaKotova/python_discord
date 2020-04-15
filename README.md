@@ -4,4 +4,4 @@
 
 Автор
 - [(Яна Котова)](https://github.com/JanaKotova) Github
-- [(Яна Котова)](https://vk.com/janakotova)
+- [(Яна Котова)](https://vk.com/janakotova) VK
