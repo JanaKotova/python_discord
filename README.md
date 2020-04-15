@@ -4,8 +4,8 @@
 Библиотеки для ботов:
 ```python
 import discord
+from discord.ext import commands
 ```
-
 
 Автор
 - [(Яна Котова)](https://github.com/JanaKotova) Github
