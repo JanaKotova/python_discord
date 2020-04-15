@@ -1,2 +1,2 @@
-# python_discord
-Discord Bot Example
+# Bot Discord
+Пример для бота на Discord
