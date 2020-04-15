@@ -9,7 +9,7 @@ TOKEN = "Ваш токен"
 async def on_message(message):
  if message.author == bot.user:
   return
- if message.content == ("?help") or message.content == ("?команды") or message.content == ("?помощь"):
+ if message.content.lower() == ("?help"):
   await message.channel.send("Список команд:\n1.) Команда\n2.) Команда")
 
 bot.run(TOKEN)
