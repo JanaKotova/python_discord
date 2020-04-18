@@ -1,4 +1,5 @@
-# Bot DiscordExample for a bot on Discord:
+# Bot Discord
+Example for a bot on Discord:
 - [(Example bot)](https://github.com/JanaKotova/python_discord/blob/master/Example/bot.py)
 
 Libraries for bots:
@@ -13,5 +14,5 @@ pip install discord
 ```
 
 Author:
-- [(Yana Kotova)](https://github.com/JanaKotova) Github
-- [(Yana Kotova)](https: // vk.com/janakotova) VK
+- [(Jana Kotova)](https://github.com/JanaKotova) Github
+- [(Jana Kotova)](https://vk.com/janakotova) VK
