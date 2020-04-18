@@ -1,3 +1,4 @@
+[Русский](https://github.com/JanaKotova/python_discord/blob/master/README_RU.md)
 # Bot Discord
 Example for a bot on Discord:
 - [(Example bot)](https://github.com/JanaKotova/python_discord/blob/master/Example/bot.py)
