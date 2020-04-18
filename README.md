@@ -1,18 +1,17 @@
-# Bot Discord
-Пример для бота на Discord:
-- [(Пример бота)](https://github.com/JanaKotova/python_discord/blob/master/Example/bot.py)
+# Bot DiscordExample for a bot on Discord:
+- [(Example bot)](https://github.com/JanaKotova/python_discord/blob/master/Example/bot.py)
 
-Библиотеки для ботов:
+Libraries for bots:
 ```python
 import discord
 from discord.ext import commands
 ```
 
-Установка библиотек:
+Installing libraries:
 ```
 pip install discord
 ```
 
-Автор:
-- [(Яна Котова)](https://github.com/JanaKotova) Github
-- [(Яна Котова)](https://vk.com/janakotova) VK
+Author:
+- [(Yana Kotova)](https://github.com/JanaKotova) Github
+- [(Yana Kotova)](https: // vk.com/janakotova) VK
